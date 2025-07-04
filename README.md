@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+Bookbot is a command line application that performs data analysis on text files (books).
